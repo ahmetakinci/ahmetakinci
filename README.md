@@ -12,25 +12,27 @@
 
 <br>
 
-```yaml
-name: Ahmet Arif Akıncı
-located_in: Ankara, Turkey
-title: Software Developer | Content Writer @Medium
-education:
-  [
-    "Bachelor's in Computer Engineering",
-  ]
-curr_company: Ankara Bilgi Teknolojileri
+---
 
-fields_of_interests:
-  [
-    "Software Development",
-    "Medium Content Writing",
-  ]
+### 👨‍💻 About Me
+- 🎓 B.Sc. in Computer Engineering – Eskisehir Technical University (2024)  
+- 🎓 B.A. in Economics – Anadolu University (2023)  
+- 💼 Software Developer @ AnkaraBT (Spring Boot, Angular, PostgreSQL, Kafka, Docker)  
+- ✍️ Content Writer on Medium  
+- 🌱 Currently exploring **Microservices, gRPC, Kafka**  
 
-currently_learning: [ Spring Boot, Kafka, gRPC, Microservices Architecture"]
-contact_me: ahmetarifaknci@gmail.com
-```
+📫 Reach me at: **ahmetarifaknci@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmetarifakinci) | [GitHub](https://github.com/ahmetakinci)  
+
+---
+
+---
+
+### 📌 Featured Projects
+- 🔹 [İzole Enerji](https://github.com/ahmetakinci/IzoleEnerji) – Energy-saving recommendation system using **.NET Core & React.js**, showcased at TÜBİTAK  
+- 🔹 [Mini Emlakjet](https://github.com/ahmetakinci/Emlakjet_Summer_Project) – Real estate prototype with **Spring Boot, Redis, Kafka, Docker, Swagger**  
+
+---
 
 <br><br>
 
