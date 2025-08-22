@@ -36,14 +36,40 @@ contact_me: ahmetarifaknci@gmail.com
 
 <div align="center">
 <h2> &nbsp;Technical Toolkit</h2>
+	
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?logo=swagger&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
- [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,aws,express,redis,docker,react,git,postman&perline=10)](https://skillicons.dev)
- 
- [![My Skills](https://skillicons.dev/icons?i=js,ts,java,kotlin&perline=8)](https://skillicons.dev)
- 
- [![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio&perline=8)](https://skillicons.dev)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+![REST](https://img.shields.io/badge/REST-02569B?logo=apachespark&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-0FAAFF?logo=soap&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-00C7B7?logo=google&logoColor=white)
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![YouTrack](https://img.shields.io/badge/YouTrack-000000?logo=youtrack&logoColor=white)
 
 
 <br><br>
