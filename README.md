@@ -90,10 +90,5 @@
   <img src="https://streak-stats.demolab.com?user=ahmetakinci&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/ahmetakinci/ahmetakinci/output/github-snake-dark.svg" alt="snake"/>
-</p>
-
 
 
