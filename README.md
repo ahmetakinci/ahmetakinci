@@ -18,8 +18,10 @@
 - 🎓 B.Sc. in Computer Engineering – Eskisehir Technical University (2024)  
 - 🎓 B.A. in Economics – Anadolu University (2023)  
 - 💼 Software Developer @ AnkaraBT (Spring Boot, Angular, PostgreSQL, Kafka, Docker)  
-- ✍️ Content Writer on Medium  
-- 🌱 Currently exploring **Microservices, gRPC, Kafka, Jwt**  
+- ✍️ Writing technical content on Medium  
+- 🌱 Currently focusing on **Microservices Architecture, Kafka, gRPC & JWT**
+
+💡 Passionate about building **scalable backend systems** and **event-driven architectures**
 
 📫 Reach me at: **ahmetarifaknci@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/ahmetarifakinci) | [GitHub](https://github.com/ahmetakinci)  
